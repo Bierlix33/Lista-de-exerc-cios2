@@ -31,6 +31,6 @@ switch (operador){
 }
 printf("o resultado é %d\n", resultado);
        
-    return 0
+    return 0;
     
 }
